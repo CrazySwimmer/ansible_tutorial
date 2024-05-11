@@ -7,3 +7,6 @@
 
 [file_servers]
 192.168.10.103
+
+[workstations]
+192.168.10.100
